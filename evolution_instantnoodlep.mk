@@ -32,7 +32,7 @@ PRODUCT_NAME := evolution_instantnoodlep
 PRODUCT_DEVICE := instantnoodlep
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := ONEPLUS IN2023
+PRODUCT_MODEL := IN2020
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
